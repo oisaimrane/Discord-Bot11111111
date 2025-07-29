@@ -1,8 +1,8 @@
 const { Colors } = require('discord.js');
 
 const config = {
-	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
+	ownerID: ['793877159966015548'],
+	token: '',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://genius.com/developers
@@ -21,9 +21,9 @@ const config = {
 		// Link to your support server
 		link: 'https://discord.gg/8g6zUQu',
 		// Your support's server ID
-		GuildID: '750822670505082971',
+		GuildID: '1312105355672817694',
 		// This for using the suggestion command on your server
-		ModRole: '751857618720522341',
+		ModRole: '',
 		// What channel to post the suggestions
 		SuggestionChannel: '761619652009787392',
 		// Where the bot will send Guild join/leave messages to
